@@ -1,0 +1,15 @@
+﻿Requirements (modules):
+
+    unidecode
+    numpy (pip install --upgrade numpy)
+    nltk (pip install --upgrade nltk)
+    * Descargar nltk punkt y nltk stopwords:
+    * >> import nltk 
+    * >> nltk.download('stopwords')
+    * >> nltk.download('punkt')
+    * Para más información: https://www.nltk.org/data.html 
+    random
+    tensorflow 1.13.1 (pip install --upgrade tensorflow) *Actualmente (10/abril/19) no funciona con python 3.7.
+    * Para más información: https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class01_intro_python.ipynb 
+    keras (pip install --upgrade keras) 
+

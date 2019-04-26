@@ -1,0 +1,3 @@
+https://github.com/deepmipt/ner/blob/master/example.ipynb
+https://github.com/subhashbylaiah/NER-Using-Bidirectional-LSTM
+https://github.com/njainds/Named-Entity-Recognition
